@@ -14,3 +14,8 @@ Learn how to initialize your types directly from a literal.
 [link](https://www.avanderlee.com/swift/expressible-literals/)
 
 
+## 22/05/2020
+### Watch Mac OS X Leopard running on 2020 iPad Pro | Cult of Mac
+[Source](https://www.cultofmac.com/701879/watch-mac-os-x-leopard-running-on-2020-ipad-pro/ "Permalink to Watch Mac OS X Leopard running on 2020 iPad Pro | Cult of Mac")
+
+
